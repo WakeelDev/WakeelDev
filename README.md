@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wakeel Khan</h1>
 <h3 align="center">A passionate machine learning engineer</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/01b67008-95e5-4b82-b89c-bf8b8372cf98">
+
+
+
 - 🔭 I’m currently working on [EduGenius](https://github.com/WakeelDev/EduGenius)
 
 - 🌱 I’m currently learning **LLMs fine tuning**
