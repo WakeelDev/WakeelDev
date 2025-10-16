@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wakeel Khan</h1>
-<h3 align="center">A passionate Machine Learning Engineer | AI Automation Enthusiast | Chatbot Developer</h3>
+<h3 align="center">AI & ML Enthusiast | NLP Chatbots | Streamlit & n8n AI Automation Developer </h3>
 
 <p align="center">
   <img align="center" alt="coding" width="400" src="https://github.com/user-attachments/assets/01b67008-95e5-4b82-b89c-bf8b8372cf98">
