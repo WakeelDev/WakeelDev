@@ -17,10 +17,7 @@
 - 💼 Find me on Fiverr: [Click here](https://www.fiverr.com/sellers/wakeelkhan19/edit)  
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/wakeel-khan-7a952b321/)
 
-⚡ **Fun Fact:**  
-> Data scientists spend **60–80%** of their time just cleaning and organizing data — it’s like being a digital detective!
 
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
