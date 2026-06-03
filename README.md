@@ -7,10 +7,9 @@
 
 ---
 
-- 🔭 I’m currently working on **Multi-LLMs Project** – A platform integrating multiple LLMs in one place.  
-- 🌱 I’m learning **AI Automation** and **LLM Fine-Tuning**.  
-- 👯 I’m open to collaborations on **Machine Learning**, **Chatbots**, and **AI Automation Projects**.  
-- 🤝 I'm open to **freelance projects**, **collaborations**, and **entry-level AI/ML opportunities** in Chatbot Development, ML Model Training, and Workflow Automation. 
+- 🔭 I'm currently building **Multi-LLM Router** — a unified platform that integrates and dynamically routes queries across GPT-4o, Claude 3, Gemini, Cohere, and Mistral based on task type.
+- 🤝 I'm open to **freelance projects**, **collaborations**, and **entry-level AI/ML opportunities** in Chatbot Development, ML Model Training, and Workflow Automation.
+- 🌱 I'm currently advancing my skills in **LLM Fine-Tuning** and **AI Automation workflows** using n8n.
 - 👨‍💻 Explore my work on [GitHub](https://github.com/wakeelkhan19).  
 - 💬 Ask me about anything related to **Machine Learning**.  
 - 📫 Reach me at **wakeelkhanservices@gmail.com**  
